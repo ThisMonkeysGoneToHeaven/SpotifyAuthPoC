@@ -1,0 +1,16 @@
+node_modules/
+# Ignore all log files
+*.log
+
+# Ignore all temporary files
+*~
+*.swp
+*.swo
+
+# Ignore IDE configuration files
+.idea
+.vscode
+
+# Ignore generated files
+dist/
+coverage/
